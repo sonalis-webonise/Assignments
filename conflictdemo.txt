@@ -1,2 +1,2 @@
-hello there,
+hello user,
 this is sample file
