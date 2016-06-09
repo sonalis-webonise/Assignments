@@ -1,1 +1,1 @@
-This is the sample of git assignment.
+This is the sample text of git assignment.
